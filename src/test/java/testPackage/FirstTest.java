@@ -7,6 +7,7 @@ public class FirstTest {
     public void m1() {
         System.out.println("m1 executed");
         System.out.println("New commit");
+        //testing new chnage in github
     }
     @Test
     public void m2() {
